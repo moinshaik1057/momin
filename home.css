@@ -1,0 +1,49 @@
+
+body {
+    background-color:#ADAF47;
+}
+
+#ct {
+
+    color: white;
+    text-align: center;
+    font-family: 'ubuntu';
+}
+
+#heading {
+    color: #fff;
+    font-size: 65px;
+    font-weight: 100;
+    text-transform: uppercase;
+    margin: 0;
+    display: inline-block;
+    font-family: sans-serif;
+}
+
+
+.img-fluid {
+    width:50%; 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+}
+
+figcaption {
+    text-align: center;
+    color: white;
+    font-family: 'ubuntu';
+}
+
+.card {
+    font-family: 'ubuntu';
+    font-size: larger;
+}
+
+.card-body {
+    font-size: 25px;
+}
+
+.bg-p {
+    background-color: #382E2C;
+}
+
